@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.*;
 import org.springframework.web.util.UriComponentsBuilder;
 
 @RestController
-@RequestMapping("respostas")
+@RequestMapping("/respostas")
 @SecurityRequirement(name = "bearer-key")
 @Secured({"ROLE_USER", "ROLE_ADMIN"})
 public class RespostaController {

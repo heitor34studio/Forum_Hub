@@ -19,7 +19,7 @@ import org.springframework.web.bind.annotation.*;
 import org.springframework.web.util.UriComponentsBuilder;
 
 @RestController
-@RequestMapping("topicos")
+@RequestMapping("/topicos")
 @SecurityRequirement(name = "bearer-key")
 @Secured({"ROLE_USER", "ROLE_ADMIN"})
 public class TopicoController {

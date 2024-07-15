@@ -19,7 +19,7 @@ import org.springframework.web.bind.annotation.*;
 import org.springframework.web.util.UriComponentsBuilder;
 
 @RestController
-@RequestMapping("cursos")
+@RequestMapping("/cursos")
 @SecurityRequirement(name = "bearer-key")
 @Secured("ROLE_ADMIN")
 public class CursoController {
