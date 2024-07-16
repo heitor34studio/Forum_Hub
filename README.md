@@ -4,7 +4,7 @@
 # ForumHub
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white) ![MySQL Badge](https://img.shields.io/badge/MySQL-232F3E?style=for-the-badge&logo=MySQL&logoColor=white) ![Maven Badge](https://img.shields.io/badge/Maven-f24d38?style=for-the-badge&logo=Maven&logoColor=white) ![Spring Badge](https://img.shields.io/badge/Spring_Boot_3-59d141?style=for-the-badge&logo=Spring&logoColor=black) ![JPA Badge](https://img.shields.io/badge/JPA-9cd1d6?style=for-the-badge&logo=JPA&logoColor=black)
 
-O ForumHub é um projeto que implementa uma API REST criada para o challange Forum HUB do Programa ONE - Oracle Next Education. Ele oferece operações para criar, listar, atualizar e excluir cursos, tópicos, respostas e usuários, além de funcionalidades de autenticação e autorização com tokens JWT.
+O ForumHub é um projeto que implementa uma API REST criada para o challenge Forum HUB do Programa ONE - Oracle Next Education. Ele oferece operações para criar, listar, atualizar e excluir cursos, tópicos, respostas e usuários, além de funcionalidades de autenticação e autorização com tokens JWT.
 
 ## Índice 
 
